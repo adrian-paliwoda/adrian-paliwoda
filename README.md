@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**adrian-paliwoda/adrian-paliwoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Detail-oriented Full Stack .NET Developer with a Master’s in Applied Computer Science. I have experience developing applications using C# and ASP.NET, complemented by front-end technologies like React.
+I am a dedicated problem-solver with a strong emphasis on understanding the root causes of issues and the context in which they arise.
+Currently, I am dedicated to enhancing my proficiency in English, advancing my expertise in C#, and exploring innovative solutions that improve efficiency and security in software development.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A large part of the projects available on my GitHub are based on courses. The technologies that appear in them
+- .NET 6
+- C#
+- Jwt
+- Tokens and Claims
+- ASP.NET Web Application
+- ASP.NET MVC 5
+- Entity Framework
+- RESTful with Web API
+- ASP.NET Identity
+- Postgresql
+- ASP.NET
+- Minimal API
+- Open API
+- REST
+- Cashing
+- Javascript
+- Angular
+- Angular Singnals
+- React
+- Vue
+- HTML
+- CSS
+- Tailwindcss
