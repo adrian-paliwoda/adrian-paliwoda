@@ -16,7 +16,7 @@ I am committed to enhancing my expertise in C# and exploring innovative solution
 - Practicing the Reacts skill
 - Working with ASP.NET Core
 
-## Technologies
+## 🧰 Technologies
 A large part of the projects available on my GitHub are based on courses. The technologies that appear in them
 
 ### Backend
@@ -54,7 +54,7 @@ A large part of the projects available on my GitHub are based on courses. The te
 ![Git](https://img.shields.io/badge/Git-222222.svg?style=for-the-badge&logo=git&logoColor=EF2E40)
 
 
-## Want to learn
+## 🎯 Want to learn 🚀
 ![Security](https://img.shields.io/badge/-Security-green?style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
