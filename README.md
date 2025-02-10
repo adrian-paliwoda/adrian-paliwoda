@@ -1,4 +1,4 @@
-# Adrian Paliwoda [![C#](https://custom-icon-badges.demolab.com/badge/-%23239120.svg?logo=cshrp&logoColor=white&style=for-the-badge)](#)
+# Adrian Paliwoda [![C#](https://img.shields.io/badge/-%23239120?style=for-the-badge&logo=csharp&logoColor=white)](#)
 
 ## Hi there 👋
 
