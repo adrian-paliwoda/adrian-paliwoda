@@ -4,7 +4,7 @@
 
 Detail-oriented Full Stack .NET Developer with a Master’s in Applied Computer Science with 5+ years of experience.
 
-I have experience developing applications using C# and ASP.NET, complemented by front-end technologies like React.
+I have experience developing applications using [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) and ASP.NET, complemented by front-end technologies like React.
 I am a dedicated problem-solver who emphasizes understanding the root causes of issues and the context in which they arise.
 
 I am committed to enhancing my expertise in C# and exploring innovative solutions that improve efficiency and security in software development.
