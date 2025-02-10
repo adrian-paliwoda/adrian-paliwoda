@@ -21,7 +21,7 @@ A large part of the projects available on my GitHub are based on courses. The te
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
-[![Jwt]([https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens))](#)
+[![Postgres](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)](#)
 - Tokens and Claims
 - ASP.NET Web Application
 - ASP.NET MVC 5
