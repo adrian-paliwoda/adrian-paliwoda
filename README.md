@@ -23,7 +23,7 @@ A large part of the projects available on my GitHub are based on courses. The te
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 
 [![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)](#)
-[![Tokens and Claims](https://img.shields.io/badge/Tokens%20and%20Claims-information-blue)](#)
+[![Tokens and Claims](https://img.shields.io/badge/-Tokens%20and%20Claims-blue?style=flat-square)](#)
 - ASP.NET Web Application
 - ASP.NET MVC 5
 - Entity Framework
