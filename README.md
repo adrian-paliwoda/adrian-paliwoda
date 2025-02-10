@@ -20,21 +20,22 @@ A large part of the projects available on my GitHub are based on courses. The te
 ### Backend
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge)](#)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white&style=for-the-badge)](#)
-[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white&style=for-the-badge)](#)
 
 [![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)](#)
 [![Tokens and Claims](https://img.shields.io/badge/Tokens%20and%20Claims-black?style=for-the-badge&logo=JSON%20web%20tokens)](#)
+[![ASP.NET Identity](https://img.shields.io/badge/-ASP.NET%20Identity-blue?style=for-the-badge)](#)
+
 [![ASP.NET Web Application](https://img.shields.io/badge/-ASP.NET%20Web%20Application-blue?style=for-the-badge)](#)
-- ASP.NET Web Application
-- ASP.NET MVC 5
-- Entity Framework
-- RESTful with Web API
-- ASP.NET Identity
-- ASP.NET
-- Minimal API
-- Open API
-- REST
-- Cashing
+[![ASP.NET MVC 5](https://img.shields.io/badge/-ASP.NET%20MV%20%205-blue?style=for-the-badge)](#)
+[![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-blue?style=for-the-badge)](#)
+[![RESTful with Web API](https://img.shields.io/badge/-RESTful%20with%20Web%20API-blue?style=for-the-badge)](#)
+
+[![RESTful with Web API](https://img.shields.io/badge/-Minimal%20API-blue?style=for-the-badge)](#)
+[![Open API](https://img.shields.io/badge/-Open%20API-blue?style=for-the-badge)](#)
+[![REST](https://img.shields.io/badge/-REST-blue?style=for-the-badge)](#)
+[![Cashing](https://img.shields.io/badge/-Cashing-blue?style=for-the-badge)](#)
+
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white&style=for-the-badge)](#)
 
 
 ### Frontend
