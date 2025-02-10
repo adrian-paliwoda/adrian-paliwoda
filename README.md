@@ -23,7 +23,7 @@ A large part of the projects available on my GitHub are based on courses. The te
 
 [![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)](#)
 [![Tokens and Claims](https://img.shields.io/badge/Tokens%20and%20Claims-black?style=for-the-badge&logo=JSON%20web%20tokens)](#)
-[![ASP.NET Identity](https://img.shields.io/badge/-ASP.NET%20Identity-blue?style=for-the-badge)](#)
+[![ASP.NET Identity](https://img.shields.io/badge/-ASP.NET%20Identity-%23512bd4?style=for-the-badge)](#)
 
 [![ASP.NET Web Application](https://img.shields.io/badge/-ASP.NET%20Web%20Application-purple?style=for-the-badge)](#)
 [![ASP.NET MVC 5](https://img.shields.io/badge/-ASP.NET%20MV%20%205-blue?style=for-the-badge)](#)
