@@ -1,3 +1,5 @@
+# Adrian Paliwoda [![C#](https://custom-icon-badges.demolab.com/badge/-%23239120.svg?logo=cshrp&logoColor=white&style=for-the-badge)](#)
+
 ## Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Calibri&pause=1000&width=435&lines=Full+Stack+.NET+Developer)](https://git.io/typing-svg)
