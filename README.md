@@ -27,7 +27,7 @@ A large part of the projects available on my GitHub are based on courses. The te
 
 [![ASP.NET Web Application](https://img.shields.io/badge/-ASP.NET%20Web%20Application-purple?style=for-the-badge)](#)
 [![ASP.NET MVC 5](https://img.shields.io/badge/-ASP.NET%20MVC%20%205-blue?style=for-the-badge)](#)
-[![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-blue?style=for-the-badge)](#)
+[![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-%23512bd4?style=for-the-badge)](#)
 [![RESTful with Web API](https://img.shields.io/badge/-RESTful%20with%20Web%20API-blue?style=for-the-badge)](#)
 
 [![RESTful with Web API](https://img.shields.io/badge/-Minimal%20API-%23512bd4?style=for-the-badge)](#)
