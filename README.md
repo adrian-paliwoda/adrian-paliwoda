@@ -18,12 +18,12 @@ I am committed to enhancing my expertise in C# and exploring innovative solution
 A large part of the projects available on my GitHub are based on courses. The technologies that appear in them
 
 ### Backend
-[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
-[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white&style=for-the-badge)](#)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white&style=for-the-badge)](#)
 
 [![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)](#)
-[![Tokens and Claims](https://img.shields.io/badge/-Tokens%20and%20Claims-blue?style=flat-square)](#)
+[![Tokens and Claims](https://img.shields.io/badge/-Tokens%20and%20Claims-blue?style=for-the-badge)](#)
 [![ASP.NET Web Application](https://img.shields.io/badge/-ASP.NET%20Web%20Application-blue?style=for-the-badge)](#)
 - ASP.NET Web Application
 - ASP.NET MVC 5
