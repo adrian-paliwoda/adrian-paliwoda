@@ -6,15 +6,15 @@
 
 Detail-oriented Full Stack .NET Developer with a Master’s in Applied Computer Science with 5+ years of experience.
 
-I have experience developing applications using C# and ASP.NET, complemented by front-end technologies like React.
-I am a dedicated problem-solver who emphasizes understanding the root causes of issues and the context in which they arise.
+I have experience developing applications using C# and ASP.NET, complemented by front-end technologies like React ⚛.
+I am a dedicated problem-solver who emphasizes understanding the root causes of issues and the context in which they arise 🛠.
 
-I am committed to enhancing my expertise in C# and exploring innovative solutions that improve efficiency and security in software development.
+I am committed to enhancing my expertise in C# and exploring innovative solutions that improve software development's efficiency and security 👀.
 
-## Current
-- Discovering Domain-Driven Design
-- Practicing the Reacts skill
-- Working with ASP.NET Core
+## 🔴 Current
+- 🔎 Discovering Domain-Driven Design 🕵️‍♀️
+- 🙏🏼 Practicing the Reacts skill
+- ✍️ Working with ASP.NET Core
 
 ## 🧰 Technologies
 A large part of the projects available on my GitHub are based on courses. The technologies that appear in them
