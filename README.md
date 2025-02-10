@@ -9,8 +9,15 @@ I am a dedicated problem-solver who emphasizes understanding the root causes of 
 
 I am committed to enhancing my expertise in C# and exploring innovative solutions that improve efficiency and security in software development.
 
+## Current
+- Discovering Domain-Driven Design
+- Practicing the Reacts skill
+- Working with ASP.NET Core
+
 ## Technologies
 A large part of the projects available on my GitHub are based on courses. The technologies that appear in them
+
+### Backend
 - .NET 6
 - C#
 - Jwt
@@ -26,6 +33,8 @@ A large part of the projects available on my GitHub are based on courses. The te
 - Open API
 - REST
 - Cashing
+
+### Frontend
 - Javascript
 - Angular
 - Angular Singnals
@@ -34,3 +43,6 @@ A large part of the projects available on my GitHub are based on courses. The te
 - HTML
 - CSS
 - Tailwindcss
+
+### Other
+![Git](https://img.shields.io/badge/Git-222222.svg?style=for-the-badge&logo=git&logoColor=EF2E40)
