@@ -26,14 +26,14 @@ A large part of the projects available on my GitHub are based on courses. The te
 [![ASP.NET Identity](https://img.shields.io/badge/-ASP.NET%20Identity-%23512bd4?style=for-the-badge)](#)
 
 [![ASP.NET Web Application](https://img.shields.io/badge/-ASP.NET%20Web%20Application-purple?style=for-the-badge)](#)
-[![ASP.NET MVC 5](https://img.shields.io/badge/-ASP.NET%20MV%20%205-blue?style=for-the-badge)](#)
+[![ASP.NET MVC 5](https://img.shields.io/badge/-ASP.NET%20MVC%20%205-blue?style=for-the-badge)](#)
 [![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-blue?style=for-the-badge)](#)
 [![RESTful with Web API](https://img.shields.io/badge/-RESTful%20with%20Web%20API-blue?style=for-the-badge)](#)
 
-[![RESTful with Web API](https://img.shields.io/badge/-Minimal%20API-blue?style=for-the-badge)](#)
-[![Open API](https://img.shields.io/badge/-Open%20API-blue?style=for-the-badge)](#)
+[![RESTful with Web API](https://img.shields.io/badge/-Minimal%20API-%23512bd4?style=for-the-badge)](#)
+[![Open API](https://img.shields.io/badge/-Open%20API-%2385ea2d?style=for-the-badge)](#)
 [![REST](https://img.shields.io/badge/-REST-blue?style=for-the-badge)](#)
-[![Cashing](https://img.shields.io/badge/-Cashing-blue?style=for-the-badge)](#)
+[![Cashing](https://img.shields.io/badge/-Cashing-%23a32422?style=for-the-badge)](#)
 
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white&style=for-the-badge)](#)
 
@@ -53,7 +53,7 @@ A large part of the projects available on my GitHub are based on courses. The te
 
 
 ## Want to learn
-![Security](https://img.shields.io/badge/-Security-green)
+![Security](https://img.shields.io/badge/-Security-green?style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Accessibility](https://img.shields.io/badge/Accessibility-%230170EA.svg?style=for-the-badge&logo=Accessibility&logoColor=white)
