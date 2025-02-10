@@ -35,6 +35,8 @@ A large part of the projects available on my GitHub are based on courses. The te
 - Open API
 - REST
 - Cashing
+- [![Tokens and Claims](https://img.shields.io/badge/-Tokens%20and%20Claims-blue?style=flat-square&logo=javascript)](https://your-link-here.com)
+
 
 ### Frontend
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
