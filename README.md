@@ -35,13 +35,12 @@ A large part of the projects available on my GitHub are based on courses. The te
 - Open API
 - REST
 - Cashing
-- [![Tokens and Claims](https://img.shields.io/badge/-Tokens%20and%20Claims-blue?style=flat-square&logo=javascript)](https://your-link-here.com)
 
 
 ### Frontend
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
-[![Angular - Singnals](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
+[![Angular - Singnals](https://img.shields.io/badge/Angular%20with%20Signals-%23DD0031.svg?logo=angular&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
